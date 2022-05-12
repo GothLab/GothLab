@@ -1,5 +1,8 @@
 ---
-title: 🪴 Quartz 3.2
+title: magic
 ---
-[[Chapter 1]]
+[[Chapter1]]
 [[Chapter 2]]
+
+
+letsgo!

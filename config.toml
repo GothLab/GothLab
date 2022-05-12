@@ -1,4 +1,4 @@
-baseURL = "https://gothlab.github.io/SmartbookPRO/"
+baseURL = "https://gothlab.github.io/GothLab/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true

@@ -1,15 +1,19 @@
 name: Jacky Zhao
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴 Quartz 3.2"
+  "GothLab.: Calligraphy x Lettering x Gothic x Tech x Cyberpunk"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: Telegram Channel
+    link: https://t.me/gothlab
+    
+  - link_name: Downloads
+    link: https://gothlab.github.io
+    
+  - link_name: YouTube
+    link: https://www.youtube.com/c/LearnCalligraphycom

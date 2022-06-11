@@ -1,3 +1,6 @@
+---
+title: "Cyberpunk"
+---
 # **Cyberpunk**
 -<mark style="background: #ADCCFFA6;"> technical dystopia  </mark> 
     Cyberpunk is a technologicaly advanced dystopia. Meaning frim overexposed to sick, cheap happines with low life infrastructure vision of future. Imperialism.

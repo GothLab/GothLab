@@ -1,3 +1,6 @@
+---
+title: "Helpful Resources"
+---
 ### Helpful Resources
 **Deviantart**
 		Mor

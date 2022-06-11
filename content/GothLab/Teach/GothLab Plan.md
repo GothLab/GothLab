@@ -1,3 +1,6 @@
+---
+title: "GothLab Plan"
+---
 #plan 
 
 Gothlab

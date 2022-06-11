@@ -1,3 +1,6 @@
+---
+title: "Games"
+---
 # Играем на карантине
 		- 5. Path of Exile
 		  Для любителей Diablo 2,

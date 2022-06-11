@@ -1,3 +1,6 @@
+---
+title: "British Humour 101"
+---
 # British Humour 101 Хау гуд из йор инглиш?
 
 5. Nevermind the Buzzcocks

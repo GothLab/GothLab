@@ -1,3 +1,6 @@
+---
+title: "Video ideas"
+---
 
 **Analogy pc programming** 
 	- analogy as pixel 2d 3d art 

@@ -1,3 +1,6 @@
+---
+title: "GothicWiki"
+---
 
 **Gothic Wiki** 
 			**- letters database** 

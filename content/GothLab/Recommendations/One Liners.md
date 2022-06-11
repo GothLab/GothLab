@@ -1,3 +1,6 @@
+---
+title: "One Liners"
+---
 # One Liners
 - **5. Demetri Martin**
 		  Тонкий, умный иногда задротский юмор.

@@ -1,3 +1,6 @@
+---
+title: "Teach info"
+---
 
 -   **themes**
     -   alice in wonderland

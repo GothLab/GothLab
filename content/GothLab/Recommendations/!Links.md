@@ -1,3 +1,6 @@
+---
+title: "!Links"
+---
 ### **Music**
 
 http://music.ishkur.com/

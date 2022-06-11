@@ -1,3 +1,6 @@
+---
+title: "Gothic Calligraphy"
+---
 Script yo
 	big letters
 	gothic modern

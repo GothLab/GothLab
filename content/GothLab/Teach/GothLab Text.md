@@ -1,3 +1,6 @@
+---
+title: "GothLab Text"
+---
 # Dialectics introduction
 Computer body, Brain main chip set
 
